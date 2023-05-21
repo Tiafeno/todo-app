@@ -4,6 +4,7 @@ For Todo test
 
 ## Install the dependencies
 ```bash
+yarn global add @quasar/cli
 yarn install
 ```
 

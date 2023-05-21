@@ -11,7 +11,7 @@ yarn install
 ```bash
 quasar dev
 ```
-
+The app run at ::9000
 
 ### Build the app for production
 ```bash

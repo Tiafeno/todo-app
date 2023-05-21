@@ -1,35 +1,16 @@
 # Finel Todo app (finel-todo-app)
 
-For test
+For Todo test
 
 ## Install the dependencies
 ```bash
-yarn
-# or
-npm install
+yarn install
 ```
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
 ```bash
 quasar dev
 ```
-
-
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
-
-
-### Format the files
-```bash
-yarn format
-# or
-npm run format
-```
-
 
 
 ### Build the app for production
